@@ -1,10 +1,10 @@
 # Ada OS
 
-From the creator of ColeOS, I bring you the successor, Ada OS, a OS to be based on debian, and have the gnome DE
+From the creator of ColeOS, I bring you the successor, Ada OS, a OS based on Debian 12, with the GNOME desktop environment
 
 ---
 
-Named after Ada County Idaho, it will be more optimized, and visually appealing then ColeOS
+Named after Ada County Idaho, it is be more optimized, and greater visual appeal than ColeOS
 
 The source code has been officially released on April 10th, 2025 - Enjoy!
 
