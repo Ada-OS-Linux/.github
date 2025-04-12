@@ -4,7 +4,7 @@ From the creator of ColeOS, I bring you the successor, Ada OS, a OS based on Deb
 
 ---
 
-Named after Ada County Idaho, it is be more optimized, and greater visual appeal than ColeOS
+Named after Ada County Idaho, it is more optimized, and has greater visual appeal than ColeOS
 
 The source code has been officially released on April 10th, 2025 - Enjoy!
 
