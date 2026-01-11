@@ -13,7 +13,9 @@ The source code has been officially released on April 10th, 2025 - Enjoy!
 
 # Links
 
-Source Code Repository: https://source.adaoslinux.xyz/
+Source Code Repository: https://adasource.colebolebole.site/
+
+Download Repository: https://adadownload.colebolebole.site/
 
 
 ---
